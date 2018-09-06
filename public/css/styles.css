@@ -1,0 +1,28 @@
+.bucket--list-title {
+  text-align: center;
+  font-family: sans-serif;
+}
+
+.item--generating-form {
+  display: flex;
+  flex-direction: column;
+  width: 30vw;
+  margin: auto;
+}
+
+#bucket--list-display{
+  display: flex;
+  flex-wrap: wrap;
+  padding: 15px;
+}
+
+.bucket--list-card {
+  border: 2px solid black;
+  width: 30%;
+  padding: 5px;
+  margin: 5px;
+}
+
+.card--delete-btn {
+  float: right;
+}
